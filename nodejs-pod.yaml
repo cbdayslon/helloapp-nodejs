@@ -9,7 +9,7 @@ spec:
     - cat
     tty: true
   - name: testcafe
-    image: gcr.io/technologists/testcafe:0.0.2
+    image: gcr.io/technologists/testcafe@sha256:e47abc4defd533bbe2db9119efd986b9daa5c5d389606b530f98fdfd14ffa883
     command:
     - cat
     tty: true
