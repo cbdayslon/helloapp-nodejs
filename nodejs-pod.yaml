@@ -9,7 +9,7 @@ spec:
     - cat
     tty: true
   - name: testcafe
-    image: testcafe:0.0.2
+    image: testcafe/testcafe:latest
     command:
     - cat
     tty: true
